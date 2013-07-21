@@ -5,7 +5,27 @@ Favorite quotes
 ===============
 
 - 
+> You can't use up creativity. The more you use the more you have. _Maya
+> Angelou_
+
+- 
 > Well begun is half done. _Aristotle_
+
+- 
+> An idea that is developed and put into action is more important than
+> an idea that exists only as an idea. _Edward de Bono_
+
+- 
+> Creativity involves breaking out of established patterns in order to
+> look at things in a different way. _Edward de Bono_
+
+- 
+> The secret of health for both mind and body is not to mourn for the
+> past, not to worry about the future, and not to anticipate troubles,
+> but to live in the present moment well and earnestly. _The Buddha_
+
+- 
+> Language always gives us away. _George Carlin_
 
 - 
 > It is much easier to be critical than to be correct. _Benjamin
@@ -30,14 +50,43 @@ Favorite quotes
 > every evil to which we do not succumb is a benefactor.  As the
 > Sandwich Islander believes that the strength and valor of the enemy he
 > kills passes into himself, so we gain the strength of the temptation
-> we resist. _Ralph Waldo Emerson, EssaysV: Compensation, 1841_
+> we resist. _Ralph Waldo Emerson, Essays V: Compensation, 1841_
 
 - 
-> If you want to do good work, what you need is a great curiosity about a promising question. _Paul Graham_
+> Whether you think you can or whether you think you can't, you're
+> right. _Henry Ford_
+
+- 
+> If you want to do good work, what you need is a great curiosity about
+> a promising question. _Paul Graham_
+
+- 
+> Being the richest man in the cemetery doesn't matter to me. Going to
+> bed at night saying we've done something wonderful, that's what
+> matters to me. _Steve Jobs_
+
+- 
+> Stay hungry... stay foolish. _Steve Jobs_
 
 - 
 > When my information changes, I change my opinion. What do you do, Sir?
 > _John Maynard Keynes_
+
+- 
+> Only two things can happen here: nothing or something bad. _Bob
+> Morris, of no-good situations_
+
+- 
+> The best way to have a good idea is to have a lot of ideas.
+> _Linus Pauling_
+
+- 
+> In doing, there is knowing. Doing is the resolution of knowing. _Diego
+> Rodriguez_
+
+- 
+> In this world without quiet corners, there can be no easy escapes from
+> history, from hullabaloo, from terrible, unquiet fuss. _Salman Rusdie_
 
 - 
 > Perfection is achieved, not when there is nothing more to add, but
@@ -57,4 +106,12 @@ Favorite quotes
 - 
 > We are what we only pretend to be. So we must be careful about what we
 > pretend to be. _Vonnegut_
+
+- 
+> The computer programmer is a creator of universes for which he alone
+> is responsible. Universes of virtually unlimited complexity can be
+> created in the form of computer programs. _Joseph Weizenbaum_
+
+- 
+> Do or do not, there is no try. _Yoda_
 
