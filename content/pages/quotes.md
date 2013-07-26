@@ -5,11 +5,19 @@ Favorite quotes
 ===============
 
 - 
+> The impossible often has a kind of integrity which the merely
+> improbable lacks. _Douglas Adams_
+
+- 
 > You can't use up creativity. The more you use the more you have. _Maya
 > Angelou_
 
 - 
 > Well begun is half done. _Aristotle_
+
+- 
+> The truth is like a lion. You don't have to defend it. Let it loose.
+> It will defend itself. _St. Augustine_
 
 - 
 > An idea that is developed and put into action is more important than
@@ -28,14 +36,17 @@ Favorite quotes
 > Language always gives us away. _George Carlin_
 
 - 
+> It's kind of fun to do the impossible. _Walt Disney_
+
+- 
 > It is much easier to be critical than to be correct. _Benjamin
 > Disraeli, 01/24/1860_
 
 - 
 > Our strength grows out of our weakness. Not until we are pricked
-> andstung and sorely shot at, awakens the indignation which arms itself
-> withsecret forces. A great man is always willing to be little. Whilst
-> hesits on the cushion of advantages, he goes to sleep. When he is
+> and stung and sorely shot at, awakens the indignation which arms itself
+> with secret forces. A great man is always willing to be little. Whilst
+> he sits on the cushion of advantages, he goes to sleep. When he is
 > pushed, tormented, defeated, he has a chance to learn something; he
 > has been put on his wits, on his manhood; he has gained facts; learns
 > his ignorance; is cured of the insanity of conceit; has got moderation
@@ -47,7 +58,7 @@ Favorite quotes
 > all that is said is said against me, I feel a certain assurance of
 > success.  But as soon as honied words of praise are spoken for me I
 > feel as one that lies unprotected before his enemies. In general,
-> every evil to which we do not succumb is a benefactor.  As the
+> every evil to which we do not succumb is a benefactor. As the
 > Sandwich Islander believes that the strength and valor of the enemy he
 > kills passes into himself, so we gain the strength of the temptation
 > we resist. _Ralph Waldo Emerson, Essays V: Compensation, 1841_
@@ -73,12 +84,20 @@ Favorite quotes
 > _John Maynard Keynes_
 
 - 
-> Only two things can happen here: nothing or something bad. _Bob
-> Morris, of no-good situations_
+> Only two things can happen: nothing, or something bad.
+> _Bob Morris, of no-good situations_
 
 - 
 > The best way to have a good idea is to have a lot of ideas.
 > _Linus Pauling_
+
+- 
+> Everything you can imagine is real. _Pablo Picasso_
+
+- 
+> We have more power than will; and it is often by way of excuse to
+> ourselves that we fancy things are impossible.
+> _Francois Duc de la Rochefoucauld_
 
 - 
 > In doing, there is knowing. Doing is the resolution of knowing. _Diego
@@ -105,7 +124,10 @@ Favorite quotes
 
 - 
 > We are what we only pretend to be. So we must be careful about what we
-> pretend to be. _Vonnegut_
+> pretend to be. _Kurt Vonnegut_
+
+- 
+> Attention is the rarest and purest form of generosity. _Simone Weil_
 
 - 
 > The computer programmer is a creator of universes for which he alone
@@ -113,5 +135,5 @@ Favorite quotes
 > created in the form of computer programs. _Joseph Weizenbaum_
 
 - 
-> Do or do not, there is no try. _Yoda_
+> Do, or do not. There is no try. _Yoda_
 
