@@ -1,6 +1,2 @@
-*.pyc
-
-# pelican files and generated content (./philadams.net)
-Makefile
-develop_server.sh
-philadams.net
+node_modules/*
+build/*

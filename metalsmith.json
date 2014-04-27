@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "title": "philadams.net",
+    "description": "Phil Adams"
+  },
+  "plugins": {
+    "metalsmith-markdown": {},
+    "metalsmith-permalinks": {
+      "pattern": ":title"
+    },
+    "metalsmith-templates": {
+      "engine": "handlebars"
+    },
+    "metalsmith-static": {
+      "src": "assets",
+      "dest": "."
+    }
+  }
+}

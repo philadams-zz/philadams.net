@@ -1,8 +1,8 @@
-Title: Quotes
-Slug: quotes
-
-Favorite quotes
-===============
+---
+title: Quotes
+date: 2014-04-26
+template: default.html
+---
 
 - 
 > The impossible often has a kind of integrity which the merely
@@ -40,7 +40,7 @@ Favorite quotes
 
 - 
 > It is much easier to be critical than to be correct. _Benjamin
-> Disraeli, 01/24/1860_
+> Disraeli_
 
 - 
 > Our strength grows out of our weakness. Not until we are pricked
@@ -66,6 +66,10 @@ Favorite quotes
 - 
 > Whether you think you can or whether you think you can't, you're
 > right. _Henry Ford_
+
+- 
+> Life is mostly froth and bubble; Two things stand like stone: Kindness in
+> another's trouble, Courage in our own. _A.L. Gordon_
 
 - 
 > If you want to do good work, what you need is a great curiosity about
