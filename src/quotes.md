@@ -92,6 +92,10 @@ template: default.html
 > _Bob Morris, of no-good situations_
 
 - 
+> Have nothing in your house that you do not know to be useful, or believe to
+> be beautiful. _William Morris_
+
+- 
 > The best way to have a good idea is to have a lot of ideas.
 > _Linus Pauling_
 
