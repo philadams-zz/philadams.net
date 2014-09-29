@@ -16,6 +16,12 @@ template: default.html
 > Well begun is half done. _Aristotle_
 
 - 
+> A modern stoic knows that the surest way to discipline passion is to
+> discipline time; decide what you want or ought to do during the day, then
+> always do it at exactly the same moment every day, and passion will give you
+> no trouble. _W.H. Auden_
+
+- 
 > The truth is like a lion. You don't have to defend it. Let it loose.
 > It will defend itself. _St. Augustine_
 
@@ -36,11 +42,24 @@ template: default.html
 > Language always gives us away. _George Carlin_
 
 - 
+> One who makes no mistakes makes nothing at all. _Giacomo Casanova_
+
+- 
+> Success consists of going from failure to failure without loss of enthusiasm.
+> _Winston Churchill_
+
+- 
 > It's kind of fun to do the impossible. _Walt Disney_
 
 - 
 > It is much easier to be critical than to be correct. _Benjamin
 > Disraeli_
+
+- 
+> Things you own end up owning you. _Tyler Durden_
+
+- 
+> I never worry about the future it comes soon enough. _Albert Einstein_
 
 - 
 > Our strength grows out of our weakness. Not until we are pricked
@@ -68,6 +87,9 @@ template: default.html
 > right. _Henry Ford_
 
 - 
+> Action expresses priorities. _Ghandi_
+
+- 
 > Life is mostly froth and bubble; Two things stand like stone: Kindness in
 > another's trouble, Courage in our own. _A.L. Gordon_
 
@@ -84,8 +106,19 @@ template: default.html
 > Stay hungry... stay foolish. _Steve Jobs_
 
 - 
+> Life is either daring adventure or nothing at all. _Helen Keller_
+
+- 
 > When my information changes, I change my opinion. What do you do, Sir?
 > _John Maynard Keynes_
+
+- 
+> In the end it's not the years in your life that count it's the life in your
+> years. _Abraham Lincoln_
+
+- 
+> If I'd followed all the rules I'd never have gotten anywhere. _Marilyn
+> Monroe_
 
 - 
 > Only two things can happen: nothing, or something bad.
@@ -112,6 +145,12 @@ template: default.html
 > Rodriguez_
 
 - 
+> Do one thing every day that scares you. _Eleanor Roosevelt_
+
+- 
+> Above all, try something. _Franklin D. Roosevelt_
+
+- 
 > In this world without quiet corners, there can be no easy escapes from
 > history, from hullabaloo, from terrible, unquiet fuss. _Salman Rusdie_
 
@@ -125,6 +164,9 @@ template: default.html
 
 - 
 > The unexamined life is not worth living. _Socrates_
+
+- 
+> Buy the ticket take the ride. _Hunter S. Thompson_
 
 - 
 > To attain knowledge, add things every day. To attain wisdom, subtract
@@ -141,6 +183,15 @@ template: default.html
 > The computer programmer is a creator of universes for which he alone
 > is responsible. Universes of virtually unlimited complexity can be
 > created in the form of computer programs. _Joseph Weizenbaum_
+
+- 
+> You only live once but if you do it right once is enough. _Mae West_
+
+- 
+> Be curious, not judgmental. _Walt Whitman_
+
+- 
+> Furious activity is no substitute for understanding. _H. H. Williams_
 
 - 
 > Do, or do not. There is no try. _Yoda_
