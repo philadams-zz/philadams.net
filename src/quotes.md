@@ -34,6 +34,9 @@ template: default.html
 > look at things in a different way. _Edward de Bono_
 
 - 
+> Other things may change us, but we start and end with family. _Anthony Brandt_
+
+- 
 > The secret of health for both mind and body is not to mourn for the
 > past, not to worry about the future, and not to anticipate troubles,
 > but to live in the present moment well and earnestly. _The Buddha_
@@ -113,6 +116,11 @@ template: default.html
 > _John Maynard Keynes_
 
 - 
+> Email is a wonderful thing for people whose role in life is to be on top of
+> things. But not for me; my role is to be on the bottom of things. What I do
+> takes long hours of studying and uninterruptible concentration. _Donald Knuth_
+
+- 
 > In the end it's not the years in your life that count it's the life in your
 > years. _Abraham Lincoln_
 
@@ -167,6 +175,9 @@ template: default.html
 
 - 
 > Buy the ticket take the ride. _Hunter S. Thompson_
+
+- 
+> What counts in making a happy marriage is not so much how compatible you are, but how you deal with incompatibility. _Leo Tolstoy_
 
 - 
 > To attain knowledge, add things every day. To attain wisdom, subtract
