@@ -26,6 +26,16 @@ template: default.html
 > It will defend itself. _St. Augustine_
 
 - 
+> [The successful person] is always prepared. Even in failure, he is composed.
+> He is not easily discouraged. [He] considers his struggles to be a kind of
+> sport, and he approaches them as he would a game. He contends with life’s
+> difficulties in a relaxed and pleasant manner. He keeps a clear head even
+> when things go wrong. And please believe me when I tell you: successful
+> people are never sore losers; they’re the ones who don’t whine and give up
+> after every failure. Indeed, they are the ones who keep their chins up,
+> weather life’s misfortunes, and live to fight another day. _Walter Benjamin_
+
+- 
 > An idea that is developed and put into action is more important than
 > an idea that exists only as an idea. _Edward de Bono_
 
@@ -48,6 +58,31 @@ template: default.html
 > One who makes no mistakes makes nothing at all. _Giacomo Casanova_
 
 - 
+> The antidote to fear is trust, and we all have a desire to find something to
+> trust in an uncertain world. Fear and trust are powerful forces, and while
+> they are not opposites, exactly, trust is the best tool for driving out fear.
+> There will always be plenty to be afraid of, especially when you are doing
+> something new. Trusting others doesn’t mean that they won’t make mistakes. It
+> means that if they do (or if you do), you trust they will act to help solve
+> it. Fear can be created quickly; trust can’t. Leaders must demonstrate their
+> trustworthiness, over time, through their actions — and the best way to do
+> that is by responding well to failure. _Ed Catmull_
+
+- 
+> We need to think about failure differently. I’m not the first to say that
+> failure, when approached properly, can be an opportunity for growth. But the
+> way most people interpret this assertion is that mistakes are a necessary
+> evil. Mistakes aren’t a necessary evil. They aren’t evil at all. They are an
+> inevitable consequence of doing something new (and, as such, should be seen
+> as valuable; without them, we’d have no originality). And yet, even as I say
+> that embracing failure is an important part of learning, I also acknowledge
+> that acknowledging this truth is not enough. That’s because failure is
+> painful, and our feelings about this pain tend to screw up our understanding
+> of its worth. To disentangle the good and the bad parts of failure, we have
+> to recognize both the reality of the pain and the benefit of the resulting
+> growth. _Ed Catmull_
+
+- 
 > Success consists of going from failure to failure without loss of enthusiasm.
 > _Winston Churchill_
 
@@ -60,6 +95,17 @@ template: default.html
 
 - 
 > Things you own end up owning you. _Tyler Durden_
+
+- 
+> Why waste time proving over and over how great you are, when you could be
+> getting better? Why hide deficiencies instead of overcoming them? Why look
+> for friends or partners who will just shore up your self-esteem instead of
+> ones who will also challenge you to grow? And why seek out the tried and
+> true, instead of experiences that will stretch you? The passion for
+> stretching yourself and sticking to it, even (or especially) when it’s not
+> going well, is the hallmark of the growth mindset. This is the mindset that
+> allows people to thrive during some of the most challenging times in their
+> lives. _Carol Dweck_
 
 - 
 > I never worry about the future it comes soon enough. _Albert Einstein_
@@ -88,6 +134,10 @@ template: default.html
 - 
 > Whether you think you can or whether you think you can't, you're
 > right. _Henry Ford_
+
+- 
+> Make New Mistakes. Make glorious, amazing mistakes. Make mistakes nobody’s
+> ever made before. _Neil Gaiman_
 
 - 
 > Action expresses priorities. _Ghandi_
@@ -119,6 +169,14 @@ template: default.html
 > Email is a wonderful thing for people whose role in life is to be on top of
 > things. But not for me; my role is to be on the bottom of things. What I do
 > takes long hours of studying and uninterruptible concentration. _Donald Knuth_
+
+- 
+> Mastery requires endurance. Mastery, a word we don’t use often, is not the
+> equivalent of what we might consider its cognate — perfectionism — an inhuman
+> aim motivated by a concern with how others view us. Mastery is also not the
+> same as success — an event-based victory based on a peak point, a punctuated
+> moment in time. Mastery is not merely a commitment to a goal, but to a
+> curved-line, constant pursuit. _Sarah Lewis_
 
 - 
 > In the end it's not the years in your life that count it's the life in your
