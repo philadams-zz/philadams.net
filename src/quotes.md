@@ -136,6 +136,9 @@ template: default.html
 > right. _Henry Ford_
 
 - 
+> The best way out is always through. _Robert Frost_
+
+- 
 > Make New Mistakes. Make glorious, amazing mistakes. Make mistakes nobody’s
 > ever made before. _Neil Gaiman_
 
@@ -186,12 +189,11 @@ template: default.html
 > years. _Abraham Lincoln_
 
 - 
-> If I'd followed all the rules I'd never have gotten anywhere. _Marilyn
-> Monroe_
+> The best way to destroy an enemy is to make him a friend. _Abraham Lincoln_
 
 - 
-> Only two things can happen: nothing, or something bad.
-> _Bob Morris, of no-good situations_
+> If I'd followed all the rules I'd never have gotten anywhere. _Marilyn
+> Monroe_
 
 - 
 > Have nothing in your house that you do not know to be useful, or believe to
@@ -203,6 +205,9 @@ template: default.html
 
 - 
 > Everything you can imagine is real. _Pablo Picasso_
+
+- 
+> The future starts today, not tomorrow. _Pope John Paul II_
 
 - 
 > We have more power than will; and it is often by way of excuse to
@@ -232,6 +237,9 @@ template: default.html
 > who matter don't mind. _Dr. Seuss_
 
 - 
+> Don't cry because it's over. Smile because it happened. _Dr. Seuss_
+
+- 
 > The unexamined life is not worth living. _Socrates_
 
 - 
@@ -247,6 +255,10 @@ template: default.html
 - 
 > We are what we only pretend to be. So we must be careful about what we
 > pretend to be. _Kurt Vonnegut_
+
+- 
+> They always say time changes things, but you actually have to change them
+> yourself. _Andy Warhol_
 
 - 
 > Attention is the rarest and purest form of generosity. _Simone Weil_
