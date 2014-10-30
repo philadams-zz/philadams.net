@@ -162,6 +162,9 @@ template: default.html
 > Life is either daring adventure or nothing at all. _Helen Keller_
 
 - 
+> What's in store for me in the direction I don't take? _Jack Kerouac_
+
+- 
 > When my information changes, I change my opinion. What do you do, Sir?
 > _John Maynard Keynes_
 
