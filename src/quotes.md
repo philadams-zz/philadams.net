@@ -44,12 +44,19 @@ template: default.html
 > look at things in a different way. _Edward de Bono_
 
 - 
+> Essentially, all models are wrong, but some are useful. _George EP Box_
+
+- 
 > Other things may change us, but we start and end with family. _Anthony Brandt_
 
 - 
 > The secret of health for both mind and body is not to mourn for the
 > past, not to worry about the future, and not to anticipate troubles,
 > but to live in the present moment well and earnestly. _The Buddha_
+
+- 
+> We are here to laugh at the odds and live our lives so well that Death will
+> tremble to take us. _Charles Bukowski_
 
 - 
 > Language always gives us away. _George Carlin_
@@ -211,6 +218,10 @@ template: default.html
 - 
 > Have nothing in your house that you do not know to be useful, or believe to
 > be beautiful. _William Morris_
+
+- 
+> It is a sign of great inner insecurity to be hostile to the unfamiliar.
+> _Anaïs Nin_
 
 - 
 > The best way to have a good idea is to have a lot of ideas.
