@@ -13,6 +13,11 @@ template: default.html
 > Angelou_
 
 - 
+> Men acquire a particular quality by constantly acting a particular way. We
+> become just by performing just actions, temperate by performing temperate
+> actions, brave by performing brave actions. _Aristotle_
+
+- 
 > Well begun is half done. _Aristotle_
 
 - 
@@ -92,6 +97,10 @@ template: default.html
 - 
 > Success consists of going from failure to failure without loss of enthusiasm.
 > _Winston Churchill_
+
+- 
+> We make a living by what we get, but we make a life by what we give. _Winston
+> Churchill_
 
 - 
 > It's kind of fun to do the impossible. _Walt Disney_
