@@ -55,6 +55,10 @@ template: default.html
 > Other things may change us, but we start and end with family. _Anthony Brandt_
 
 - 
+> By all means break the rules, and break them beautifully, deliberately and
+> well. That is one of the ends for which they exist. _Robert Bringhurst_
+
+- 
 > The secret of health for both mind and body is not to mourn for the
 > past, not to worry about the future, and not to anticipate troubles,
 > but to live in the present moment well and earnestly. _The Buddha_
@@ -153,6 +157,9 @@ template: default.html
 
 - 
 > The best way out is always through. _Robert Frost_
+
+- 
+> We love the things we love for what they are. _Robert Frost_
 
 - 
 > Make New Mistakes. Make glorious, amazing mistakes. Make mistakes nobody’s
@@ -271,6 +278,11 @@ template: default.html
 
 - 
 > Don't cry because it's over. Smile because it happened. _Dr. Seuss_
+
+- 
+> I have always wished that my computer would be as easy to use as my
+> telephone. My wish has come true. I no longer know how to use my telephone.
+> _Bjarne Stroustrup_
 
 - 
 > The unexamined life is not worth living. _Socrates_
