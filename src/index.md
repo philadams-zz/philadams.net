@@ -5,7 +5,7 @@ template: index.html
 Hi, I'm Phil Adams
 ==================
 
-I'm a PhD candidate in [Cornell University][cornell]'s [Information Science Department][infosci].
+I'm a PhD candidate in [Cornell University][cornell]'s [Information Science Department][infosci] ([resume.pdf](./resume.pdf)).
 
 Elsewhere:
 
