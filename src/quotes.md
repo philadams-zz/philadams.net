@@ -208,6 +208,11 @@ template: default.html
 > _John Maynard Keynes_
 
 - 
+> A man dies when he refuses to stand up for that which is right. A man dies
+> when he refuses to stand up for justice. A man dies when he refuses to take a
+> stand for that which is true. _Martin Luther King Jr_
+
+- 
 > Email is a wonderful thing for people whose role in life is to be on top of
 > things. But not for me; my role is to be on the bottom of things. What I do
 > takes long hours of studying and uninterruptible concentration. _Donald Knuth_
