@@ -213,6 +213,10 @@ template: default.html
 > stand for that which is true. _Martin Luther King Jr_
 
 - 
+> Life's most persistent and urgent question is, what are you doing for others?
+> _Martin Luther King Jr_
+
+- 
 > Email is a wonderful thing for people whose role in life is to be on top of
 > things. But not for me; my role is to be on the bottom of things. What I do
 > takes long hours of studying and uninterruptible concentration. _Donald Knuth_
