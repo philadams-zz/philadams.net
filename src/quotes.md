@@ -140,16 +140,7 @@ template: default.html
 > his ignorance; is cured of the insanity of conceit; has got moderation
 > and real skill. The wise man always throws himself on the side of his
 > assailants. It is more his interest than it is theirs to find his weak
-> point. The wound cicatrizes and falls off from him like a dead skin
-> and when they would triumph, lo! he has passed on invulnerable. Blame
-> is safer than praise. I hate to be defended in a newspaper. As long as
-> all that is said is said against me, I feel a certain assurance of
-> success.  But as soon as honied words of praise are spoken for me I
-> feel as one that lies unprotected before his enemies. In general,
-> every evil to which we do not succumb is a benefactor. As the
-> Sandwich Islander believes that the strength and valor of the enemy he
-> kills passes into himself, so we gain the strength of the temptation
-> we resist. _Ralph Waldo Emerson, Essays V: Compensation, 1841_
+> point. _Ralph Waldo Emerson_
 
 - 
 > Whether you think you can or whether you think you can't, you're
