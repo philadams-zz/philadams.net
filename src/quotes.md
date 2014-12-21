@@ -49,6 +49,15 @@ template: default.html
 > look at things in a different way. _Edward de Bono_
 
 - 
+> Journeys are the midwives of thought. Few places are more conducive to
+> internal conversations than a moving plane, ship or train. There is an almost
+> quaint correlation between what is in front of our eyes and the thoughts we
+> are able to have in our heads: large thoughts at times requiring large views,
+> new thoughts new places. Introspective reflections which are liable to stall
+> are helped along by the flow of the landscape. The mind may be reluctant to
+> think properly when thinking is all it is supposed to do. _Alain de Botton_
+
+- 
 > Essentially, all models are wrong, but some are useful. _George EP Box_
 
 - 
@@ -166,6 +175,10 @@ template: default.html
 - 
 > If you want to do good work, what you need is a great curiosity about
 > a promising question. _Paul Graham_
+
+- 
+> The opposite for courage is not cowardice, it is conformity. Even a dead fish
+> can go with the flow. _Jim Hightower_
 
 - 
 > That's the paradox: the only time most people feel alive is when they’re
@@ -292,6 +305,9 @@ template: default.html
 
 - 
 > What counts in making a happy marriage is not so much how compatible you are, but how you deal with incompatibility. _Leo Tolstoy_
+
+- 
+> Courage is resistance to fear, mastery of fear, not absence of fear. _Mark Twain_
 
 - 
 > To attain knowledge, add things every day. To attain wisdom, subtract
