@@ -253,6 +253,14 @@ template: default.html
 > _Anaïs Nin_
 
 - 
+> All models are wrong, and increasingly you can succeed without them. _Peter
+> Norvig_
+
+- 
+> Never grow a wishbone, daughter, where your backbone ought to be. _Clementine
+> Paddleford_
+
+- 
 > The best way to have a good idea is to have a lot of ideas.
 > _Linus Pauling_
 
@@ -280,6 +288,10 @@ template: default.html
 - 
 > In this world without quiet corners, there can be no easy escapes from
 > history, from hullabaloo, from terrible, unquiet fuss. _Salman Rusdie_
+
+- 
+> The greatest challenge to any thinker [designer] is stating the problem in a
+> way that will allow a solution. _Bertrand Russell_
 
 - 
 > Perfection is achieved, not when there is nothing more to add, but
