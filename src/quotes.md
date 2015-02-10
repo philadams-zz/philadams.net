@@ -316,6 +316,10 @@ template: default.html
 > Buy the ticket take the ride. _Hunter S. Thompson_
 
 - 
+> A man is rich in proportion to the number of things which he can afford to
+> let alone. _Henry David Thoreau_
+
+- 
 > What counts in making a happy marriage is not so much how compatible you are, but how you deal with incompatibility. _Leo Tolstoy_
 
 - 
