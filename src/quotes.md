@@ -166,6 +166,10 @@ template: default.html
 > ever made before. _Neil Gaiman_
 
 - 
+> All we have to do is decide what to do with the time that is given to us.
+> _Gandlaf_
+
+- 
 > Action expresses priorities. _Ghandi_
 
 - 
