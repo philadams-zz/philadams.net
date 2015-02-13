@@ -167,7 +167,7 @@ template: default.html
 
 - 
 > All we have to do is decide what to do with the time that is given to us.
-> _Gandlaf_
+> _Gandalf_
 
 - 
 > Action expresses priorities. _Ghandi_
