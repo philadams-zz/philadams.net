@@ -181,6 +181,13 @@ template: default.html
 > a promising question. _Paul Graham_
 
 - 
+> We exist in a sea of powerful stories: they are the condition of finite
+> rationality and personal and collective life histories. There is no way out
+> of stories; but... there are many possible structures, not to mention
+> contents, of narration. Changing the stories, in both material and semiotic
+> senses, is a modest intervention worth making. _Donna Jeanne Haraway_
+
+- 
 > The opposite for courage is not cowardice, it is conformity. Even a dead fish
 > can go with the flow. _Jim Hightower_
 
