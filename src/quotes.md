@@ -18,6 +18,9 @@ template: default.html
 > actions, brave by performing brave actions. _Aristotle_
 
 - 
+> Excellence, then, is not an act, but a habit. _Aristotle_
+
+- 
 > Well begun is half done. _Aristotle_
 
 - 
@@ -124,6 +127,9 @@ template: default.html
 - 
 > It is much easier to be critical than to be correct. _Benjamin
 > Disraeli_
+
+- 
+> We are what we repeatedly do. _Will Durant_
 
 - 
 > Things you own end up owning you. _Tyler Durden_
