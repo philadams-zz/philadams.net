@@ -112,6 +112,9 @@ template: default.html
 > _Winston Churchill_
 
 - 
+> Those who dare, risk defeat. Those who don't, ensure it. _Winston Churchill_
+
+- 
 > We make a living by what we get, but we make a life by what we give. _Winston
 > Churchill_
 
