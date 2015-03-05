@@ -161,6 +161,10 @@ template: default.html
 > point. _Ralph Waldo Emerson_
 
 - 
+> I only write when I am inspired. Fortunately I am inspired every day at nine
+> o'clock. _William Faulkner_
+
+- 
 > Whether you think you can or whether you think you can't, you're
 > right. _Henry Ford_
 
