@@ -340,6 +340,10 @@ template: default.html
 > Buy the ticket take the ride. _Hunter S. Thompson_
 
 - 
+> Who is the happier man, he who has braved the storm of life and lived, or he
+> who has stayed securely on shore and merely existed? _Hunter S. Thompson_
+
+- 
 > A man is rich in proportion to the number of things which he can afford to
 > let alone. _Henry David Thoreau_
 
