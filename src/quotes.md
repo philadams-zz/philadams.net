@@ -273,6 +273,10 @@ template: default.html
 > be beautiful. _William Morris_
 
 - 
+> A life is like a garden. Perfect moments can be had, but not preserved,
+> except in memory. LLAP. _Leonard Nimoy_
+
+- 
 > It is a sign of great inner insecurity to be hostile to the unfamiliar.
 > _Anaïs Nin_
 
