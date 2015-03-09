@@ -1,5 +1,5 @@
 ---
-title: IS PhD Updates
+title: IS PhD Newsnote
 date: 2015-02-01
 template: default.html
 ---
