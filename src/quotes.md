@@ -341,6 +341,10 @@ template: default.html
 > The unexamined life is not worth living. _Socrates_
 
 - 
+> We've begun to raise daughters more like sons... but few have the courage to
+> raise our sons more like our daughters. _Gloria Steinem_
+
+- 
 > Buy the ticket take the ride. _Hunter S. Thompson_
 
 - 
