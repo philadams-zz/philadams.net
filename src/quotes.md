@@ -115,6 +115,10 @@ template: default.html
 > _Winston Churchill_
 
 - 
+> The short words are the best, and the old words best of all. _Winston
+> Churchill_
+
+- 
 > Those who dare, risk defeat. Those who don't, ensure it. _Winston Churchill_
 
 - 
@@ -248,6 +252,9 @@ template: default.html
 > Email is a wonderful thing for people whose role in life is to be on top of
 > things. But not for me; my role is to be on the bottom of things. What I do
 > takes long hours of studying and uninterruptible concentration. _Donald Knuth_
+
+- 
+> The unlived life is not worth examining. _Sheldon Kopp_
 
 - 
 > Mastery requires endurance. Mastery, a word we don’t use often, is not the
