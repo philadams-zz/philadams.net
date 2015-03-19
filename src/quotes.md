@@ -5,12 +5,24 @@ template: default.html
 ---
 
 - 
+> Learning is not attained by chance; it must be sought for with ardor and
+> attended to with diligence. _Abigail Adams_
+
+- 
 > The impossible often has a kind of integrity which the merely
 > improbable lacks. _Douglas Adams_
 
 - 
+> Courage is the most important of all the virtues, because without courage you
+> can't practice any other virtue consistently. _Maya Angelou_
+
+- 
 > You can't use up creativity. The more you use the more you have. _Maya
 > Angelou_
+
+- 
+> It is the mark of an educated mind to be able to entertain a thought without
+> accepting it. _Aristotle_
 
 - 
 > Men acquire a particular quality by constantly acting a particular way. We
@@ -28,6 +40,10 @@ template: default.html
 > discipline time; decide what you want or ought to do during the day, then
 > always do it at exactly the same moment every day, and passion will give you
 > no trouble. _W.H. Auden_
+
+- 
+> Right is right even if no one is doing it; wrong is wrong even if everyone is
+> doing it. _St. Augustine_
 
 - 
 > The truth is like a lion. You don't have to defend it. Let it loose.
@@ -80,6 +96,10 @@ template: default.html
 > tremble to take us. _Charles Bukowski_
 
 - 
+> All that is necessary for the triumph of evil is that good people do nothing.
+> _Edmund Burke_
+
+- 
 > Language always gives us away. _George Carlin_
 
 - 
@@ -126,6 +146,9 @@ template: default.html
 > Churchill_
 
 - 
+> A room without books is like a body without a soul. _Marcus Tullius Cicero_
+
+- 
 > It's kind of fun to do the impossible. _Walt Disney_
 
 - 
@@ -165,8 +188,16 @@ template: default.html
 > point. _Ralph Waldo Emerson_
 
 - 
+> Hard work spotlights the character of people:  some turn up their sleeves,
+> some turn up their noses, and some don't turn up at all. _Sam Ewing_
+
+- 
 > I only write when I am inspired. Fortunately I am inspired every day at nine
 > o'clock. _William Faulkner_
+
+- 
+> Failure is simply the opportunity to begin again, this time more
+> intelligently. _Henry Ford_
 
 - 
 > Whether you think you can or whether you think you can't, you're
@@ -233,6 +264,9 @@ template: default.html
 > Life is either daring adventure or nothing at all. _Helen Keller_
 
 - 
+> The highest result of education is tolerance. _Helen Keller_
+
+- 
 > What's in store for me in the direction I don't take? _Jack Kerouac_
 
 - 
@@ -270,6 +304,10 @@ template: default.html
 
 - 
 > The best way to destroy an enemy is to make him a friend. _Abraham Lincoln_
+
+- 
+> Education is the most powerful weapon which you can use to change the world.
+> _Nelson Mandela_
 
 - 
 > If I'd followed all the rules I'd never have gotten anywhere. _Marilyn
@@ -340,6 +378,10 @@ template: default.html
 > Don't cry because it's over. Smile because it happened. _Dr. Seuss_
 
 - 
+> Put your heart, mind, intellect and soul even to your smallest acts. This is
+> the secret of success. _Swami Sivananda_
+
+- 
 > I have always wished that my computer would be as easy to use as my
 > telephone. My wish has come true. I no longer know how to use my telephone.
 > _Bjarne Stroustrup_
@@ -363,7 +405,17 @@ template: default.html
 > let alone. _Henry David Thoreau_
 
 - 
-> What counts in making a happy marriage is not so much how compatible you are, but how you deal with incompatibility. _Leo Tolstoy_
+> What counts in making a happy marriage is not so much how compatible you are,
+> but how you deal with incompatibility. _Leo Tolstoy_
+
+- 
+> Utter only the words of which we won't be ashamed afterwards, which we won't
+> regret saying. It is easy to discourage, it is far too easy, all too easy to
+> criticize, to complain, to rebuke. Let us try instead to be more quick to see
+> even a small amount of good in a person and concentrate on that. Let us be
+> more quick to praise than to find fault. Let us be more quick to thank others
+> than to complain - 'thank you' and 'please' are small words, but they are oh,
+> so powerful. _Desmond Tutu_
 
 - 
 > Courage is resistance to fear, mastery of fear, not absence of fear. _Mark Twain_
@@ -400,3 +452,5 @@ template: default.html
 - 
 > Do, or do not. There is no try. _Yoda_
 
+- 
+> A mind is like a parachute. It doesn't work if it is not open. _Frank Zappa_
