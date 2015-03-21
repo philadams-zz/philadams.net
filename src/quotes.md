@@ -394,6 +394,10 @@ template: default.html
 > raise our sons more like our daughters. _Gloria Steinem_
 
 - 
+> Language is the main instrument of man's refusal to accept the world as it
+> is. _George Steiner_
+
+- 
 > Buy the ticket take the ride. _Hunter S. Thompson_
 
 - 
