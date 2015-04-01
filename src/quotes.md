@@ -149,6 +149,9 @@ template: default.html
 > A room without books is like a body without a soul. _Marcus Tullius Cicero_
 
 - 
+> Nothing in life is to be feared. It is only to be understood. _Marie Curie_
+
+- 
 > It's kind of fun to do the impossible. _Walt Disney_
 
 - 
