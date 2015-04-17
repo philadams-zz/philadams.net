@@ -155,8 +155,7 @@ template: default.html
 > It's kind of fun to do the impossible. _Walt Disney_
 
 - 
-> It is much easier to be critical than to be correct. _Benjamin
-> Disraeli_
+> It is much easier to be critical than to be correct. _Benjamin Disraeli_
 
 - 
 > We are what we repeatedly do. _Will Durant_
@@ -177,6 +176,10 @@ template: default.html
 
 - 
 > I never worry about the future it comes soon enough. _Albert Einstein_
+
+- 
+> If you can't explain it to a six year old, you don't understand it yourself.
+> _Albert Einstein_
 
 - 
 > Our strength grows out of our weakness. Not until we are pricked
