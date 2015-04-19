@@ -13,6 +13,14 @@ template: default.html
 > improbable lacks. _Douglas Adams_
 
 - 
+> A champion has to have the skill, and the will. But the will must be stronger
+> than the skill. _Muhammad Ali_
+
+- 
+> The fight is won or lost far away from witnesses, long before I dance under
+> those lights. _Muhammad Ali_
+
+- 
 > Courage is the most important of all the virtues, because without courage you
 > can't practice any other virtue consistently. _Maya Angelou_
 
