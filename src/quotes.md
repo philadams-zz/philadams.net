@@ -363,6 +363,9 @@ template: default.html
 > _Francois Duc de la Rochefoucauld_
 
 - 
+> Why not go out on a limb? That's where the fruit is." _Will Rogers_
+
+- 
 > In doing, there is knowing. Doing is the resolution of knowing. _Diego
 > Rodriguez_
 
