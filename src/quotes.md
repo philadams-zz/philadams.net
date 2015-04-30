@@ -190,6 +190,10 @@ template: default.html
 > _Albert Einstein_
 
 - 
+> The definition of insanity is doing the same thing over and over again and
+> expecting a different result. _Albert Einstein_
+
+- 
 > Our strength grows out of our weakness. Not until we are pricked
 > and stung and sorely shot at, awakens the indignation which arms itself
 > with secret forces. A great man is always willing to be little. Whilst
