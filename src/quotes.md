@@ -380,6 +380,10 @@ template: default.html
 > Above all, try something. _Franklin D. Roosevelt_
 
 - 
+> Sometimes a problem reaches a point of acuity where there are just two
+> choices left: bold action or permanent crisis. _David Rothkopf_
+
+- 
 > In this world without quiet corners, there can be no easy escapes from
 > history, from hullabaloo, from terrible, unquiet fuss. _Salman Rusdie_
 
