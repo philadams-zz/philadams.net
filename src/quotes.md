@@ -358,6 +358,10 @@ template: default.html
 > The future starts today, not tomorrow. _Pope John Paul II_
 
 - 
+> In every job that must be done, there is an element of fun. You find the fun,
+> and - SNAP - the job's a game! _Mary Poppins_
+
+- 
 > We have more power than will; and it is often by way of excuse to
 > ourselves that we fancy things are impossible.
 > _Francois Duc de la Rochefoucauld_
