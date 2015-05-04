@@ -336,6 +336,10 @@ template: default.html
 > be beautiful. _William Morris_
 
 - 
+> Life shrinks and life expands in proportion to your willingness to assume
+> risk. _Casey Neistat_
+
+- 
 > A life is like a garden. Perfect moments can be had, but not preserved,
 > except in memory. LLAP. _Leonard Nimoy_
 
