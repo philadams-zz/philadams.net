@@ -222,6 +222,14 @@ template: default.html
 > right. _Henry Ford_
 
 - 
+> The final forming of a person's character lies in their own hands. _Anne
+> Frank_
+
+- 
+> How wonderful it is that nobody need wait a single moment before starting to
+> improve the world. _Anne Frank_
+
+- 
 > The best way out is always through. _Robert Frost_
 
 - 
@@ -338,6 +346,9 @@ template: default.html
 - 
 > Life shrinks and life expands in proportion to your willingness to assume
 > risk. _Casey Neistat_
+
+- 
+> The right time is always right now. _Casey Neistat_
 
 - 
 > A life is like a garden. Perfect moments can be had, but not preserved,
