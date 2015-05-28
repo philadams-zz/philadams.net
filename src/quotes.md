@@ -68,6 +68,10 @@ template: default.html
 > weather life’s misfortunes, and live to fight another day. _Walter Benjamin_
 
 - 
+> To achieve great things, two things are needed: a plan, and not quite enough
+> time. _Leonard Bernstein_
+
+- 
 > An idea that is developed and put into action is more important than
 > an idea that exists only as an idea. _Edward de Bono_
 
@@ -279,6 +283,11 @@ template: default.html
 > all. _Ted Hughes_
 
 - 
+> In every deliberation, we must consider the impact on the 7th generation,
+> even if it requires having skin as thick as the bark of a pine. _Iroquois
+> saying_
+
+- 
 > Being the richest man in the cemetery doesn't matter to me. Going to
 > bed at night saying we've done something wonderful, that's what
 > matters to me. _Steve Jobs_
@@ -338,6 +347,9 @@ template: default.html
 - 
 > If I'd followed all the rules I'd never have gotten anywhere. _Marilyn
 > Monroe_
+
+- 
+> To be able to enjoy one's past is to live twice. _Martial_
 
 - 
 > Have nothing in your house that you do not know to be useful, or believe to
@@ -496,6 +508,11 @@ template: default.html
 
 - 
 > Furious activity is no substitute for understanding. _H. H. Williams_
+
+- 
+> Success is a peace of mind which is a direct result of self-satisfaction in
+> knowing you did your best to become the best that you are capable of
+> becoming. _John Wooden_
 
 - 
 > Do, or do not. There is no try. _Yoda_
