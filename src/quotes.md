@@ -296,6 +296,9 @@ template: default.html
 > Stay hungry... stay foolish. _Steve Jobs_
 
 - 
+> A man's errors are his portals of discovery. _James Joyce_
+
+- 
 > Life is either daring adventure or nothing at all. _Helen Keller_
 
 - 
@@ -491,6 +494,12 @@ template: default.html
 - 
 > They always say time changes things, but you actually have to change them
 > yourself. _Andy Warhol_
+
+- 
+> Our idea of relaxing is all too often to plop down in front of the television
+> set and let its pandering idiocy liquefy our brains. Shutting off the thought
+> process is not rejuvenating; the mind is like a car battery - it recharges by
+> running. _Bill Watterson_
 
 - 
 > Attention is the rarest and purest form of generosity. _Simone Weil_
