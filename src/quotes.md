@@ -210,6 +210,9 @@ template: default.html
 > point. _Ralph Waldo Emerson_
 
 - 
+> Only those who attempt the absurd will achieve the impossible. _MC Escher_
+
+- 
 > Hard work spotlights the character of people:  some turn up their sleeves,
 > some turn up their noses, and some don't turn up at all. _Sam Ewing_
 
