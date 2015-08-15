@@ -352,6 +352,10 @@ template: default.html
 > The best way to destroy an enemy is to make him a friend. _Abraham Lincoln_
 
 - 
+> Without heroes, we are all plain people and don't know how far we can go.
+> _Bernard Malamud_
+
+- 
 > Education is the most powerful weapon which you can use to change the world.
 > _Nelson Mandela_
 
