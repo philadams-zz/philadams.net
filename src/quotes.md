@@ -308,6 +308,11 @@ template: default.html
 > The highest result of education is tolerance. _Helen Keller_
 
 - 
+> Love feels no burden, thinks nothing of trouble, attempts what is above its
+> strength, pleads no excuse of impossibility; for it thinks all things lawful
+> for itself, and all things possible. _Thomas a Kempis_
+
+- 
 > What's in store for me in the direction I don't take? _Jack Kerouac_
 
 - 
