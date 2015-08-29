@@ -143,6 +143,10 @@ template: default.html
 > growth. _Ed Catmull_
 
 - 
+> Courage is what it takes to stand up and speak; courage is also what it takes
+> to sit down and listen. _Winston Churchill_
+
+- 
 > Success consists of going from failure to failure without loss of enthusiasm.
 > _Winston Churchill_
 
@@ -271,6 +275,10 @@ template: default.html
 - 
 > The opposite for courage is not cowardice, it is conformity. Even a dead fish
 > can go with the flow. _Jim Hightower_
+
+- 
+> You pile up enough tomorrows, and you'll find you are left with nothing but a
+> lot of empty yesterdays. _Harold Hill_
 
 - 
 > That's the paradox: the only time most people feel alive is when they’re
