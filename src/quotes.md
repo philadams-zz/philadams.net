@@ -202,6 +202,10 @@ template: default.html
 > expecting a different result. _Albert Einstein_
 
 - 
+> In preparing for battle, I have always found that plans are useless but
+> planning is indispensable. _Dwight D Eisenhower_
+
+- 
 > Our strength grows out of our weakness. Not until we are pricked
 > and stung and sorely shot at, awakens the indignation which arms itself
 > with secret forces. A great man is always willing to be little. Whilst
