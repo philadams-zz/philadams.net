@@ -508,6 +508,10 @@ template: default.html
 > Courage is resistance to fear, mastery of fear, not absence of fear. _Mark Twain_
 
 - 
+> Whenever you find yourself on the side of the majority, it's time to pause
+> and reflect. _Mark Twain_
+
+- 
 > To attain knowledge, add things every day. To attain wisdom, subtract
 > things every day. _Lao Tzu_
 
