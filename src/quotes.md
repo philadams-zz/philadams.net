@@ -13,6 +13,9 @@ template: default.html
 > improbable lacks. _Douglas Adams_
 
 - 
+> Smooth seas do not make skillful sailors. _African proverb_
+
+- 
 > A champion has to have the skill, and the will. But the will must be stronger
 > than the skill. _Muhammad Ali_
 
@@ -58,6 +61,14 @@ template: default.html
 > It will defend itself. _St. Augustine_
 
 - 
+> The world is a book and those who do not travel read only one page. _St.
+> Augustine_
+
+- 
+> When 99% of people doubt your ideas, you're either gravely wrong or about to
+> make history. _Scott Belsky_
+
+- 
 > [The successful person] is always prepared. Even in failure, he is composed.
 > He is not easily discouraged. [He] considers his struggles to be a kind of
 > sport, and he approaches them as he would a game. He contends with life’s
@@ -93,6 +104,10 @@ template: default.html
 
 - 
 > Other things may change us, but we start and end with family. _Anthony Brandt_
+
+- 
+> We are kept from our goal not by obstacles but by a clear path to a lesser
+> goal. _Robert Brault_
 
 - 
 > By all means break the rules, and break them beautifully, deliberately and
@@ -151,6 +166,10 @@ template: default.html
 > _Winston Churchill_
 
 - 
+> The maxim 'Nothing but perfection' may be spelled 'Paralysis' _Winston
+> Churchill_
+
+- 
 > The short words are the best, and the old words best of all. _Winston
 > Churchill_
 
@@ -191,7 +210,10 @@ template: default.html
 > lives. _Carol Dweck_
 
 - 
-> I never worry about the future it comes soon enough. _Albert Einstein_
+> I have no special talents. I am only passionately curious. _Albert Einstein_
+
+- 
+> I never worry about the future, it comes soon enough. _Albert Einstein_
 
 - 
 > If you can't explain it to a six year old, you don't understand it yourself.
@@ -262,6 +284,9 @@ template: default.html
 > Action expresses priorities. _Ghandi_
 
 - 
+> Treat different people differently. Anything else is a compromise. _Seth Godin_
+
+- 
 > Life is mostly froth and bubble; Two things stand like stone: Kindness in
 > another's trouble, Courage in our own. _A.L. Gordon_
 
@@ -270,11 +295,24 @@ template: default.html
 > a promising question. _Paul Graham_
 
 - 
+> As a rule you can recognize genuinely smart people by their ability to say
+> things like "I don't know," "Maybe you're right," and "I don't understand x
+> well enough." _Paul Graham_
+
+- 
+> A society grows great when old men plant trees whose shade they know they
+> shall never sit in. _Greek proverb_
+
+- 
 > We exist in a sea of powerful stories: they are the condition of finite
 > rationality and personal and collective life histories. There is no way out
 > of stories; but... there are many possible structures, not to mention
 > contents, of narration. Changing the stories, in both material and semiotic
 > senses, is a modest intervention worth making. _Donna Jeanne Haraway_
+
+- 
+> Expectations, not outcomes, govern the happiness of your perceived reality.
+> _David Heinemeier Hansson_
 
 - 
 > The opposite for courage is not cowardice, it is conformity. Even a dead fish
@@ -303,12 +341,22 @@ template: default.html
 > saying_
 
 - 
+> Education is what people do to you and learning is what you do for yourself.
+> _Joi Ito_
+
+- 
 > Being the richest man in the cemetery doesn't matter to me. Going to
 > bed at night saying we've done something wonderful, that's what
 > matters to me. _Steve Jobs_
 
 - 
 > Stay hungry... stay foolish. _Steve Jobs_
+
+- 
+> I've missed more than 9000 shots in my career. I've lost almost 300 games. 26
+> times, I've been trusted to take the game winning shot and missed. I've
+> failed over and over and over again in my life. And that is why I succeed.
+> _Michael Jordan_
 
 - 
 > A man's errors are his portals of discovery. _James Joyce_
@@ -383,6 +431,10 @@ template: default.html
 > be beautiful. _William Morris_
 
 - 
+> The hardest thing is spending the most time on the most important things.
+> _Matt Mullenweg_
+
+- 
 > Life shrinks and life expands in proportion to your willingness to assume
 > risk. _Casey Neistat_
 
@@ -406,6 +458,10 @@ template: default.html
 > Paddleford_
 
 - 
+> Happiness is the best revenge. Nothing drives people crazier than seeing
+> someone have a good fucking life. _Chuck Palahniuk_
+
+- 
 > The best way to have a good idea is to have a lot of ideas.
 > _Linus Pauling_
 
@@ -418,6 +474,10 @@ template: default.html
 - 
 > In every job that must be done, there is an element of fun. You find the fun,
 > and - SNAP - the job's a game! _Mary Poppins_
+
+- 
+> The real voyage of discovery consists not in seeking new landscapes, but in
+> having new eyes. _Marcel Proust_
 
 - 
 > We have more power than will; and it is often by way of excuse to
@@ -461,6 +521,9 @@ template: default.html
 > Don't cry because it's over. Smile because it happened. _Dr. Seuss_
 
 - 
+> Perfectionism is self-abuse of the highest order. _Anne Wilson Schaef_
+
+- 
 > Put your heart, mind, intellect and soul even to your smallest acts. This is
 > the secret of success. _Swami Sivananda_
 
@@ -492,8 +555,16 @@ template: default.html
 > let alone. _Henry David Thoreau_
 
 - 
+> The true price of anything you do is the amount of time you exchange for it.
+> _Henry David Thoreau_
+
+- 
 > What counts in making a happy marriage is not so much how compatible you are,
 > but how you deal with incompatibility. _Leo Tolstoy_
+
+- 
+> Perfection is... an impossibility we use to torture ourselves. _Guillermo del
+> Toro_
 
 - 
 > Utter only the words of which we won't be ashamed afterwards, which we won't
@@ -514,6 +585,9 @@ template: default.html
 - 
 > To attain knowledge, add things every day. To attain wisdom, subtract
 > things every day. _Lao Tzu_
+
+- 
+> Simplicity is the ultimate sophistication. _Leonardo da Vinci_
 
 - 
 > We are what we only pretend to be. So we must be careful about what we
